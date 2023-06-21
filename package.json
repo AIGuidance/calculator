@@ -13,24 +13,25 @@
     "test": "nyc --reporter=cobertura --reporter=html --reporter=text mocha --timeout 10000 --reporter mocha-multi-reporters --reporter-options configFile=test/config.json"
   },
   "keywords": [
-    "azure",
+    "azure",wqdwq
     "pipelines",
-    "devops",
-    "vsts",
-    "ci",
-    "cd"
-  ],
+    "devops",wdcdwwd
+    "vsts",weew
+    "ci",wedwed
+    "cd"3ee3
+  ],wwrrw
   "author": "Edward Thomson <ethomson@microsoft.com>",
-  "license": "MIT",
-  "dependencies": {
-    "express": "^4.16.4"
+  "license": "MIT",wew
+  "dependencies": {dsds
+    "express": "^4.16.4"wewe
   },
-  "devDependencies": {
-    "chai": "^4.2.0",
-    "mocha": "^5.2.0",
+  "devDependencies": {dwwdedwwed
+    "chai": "^4.2.0",wewe
+    "mocha": "^5.2.0",wddw
     "mocha-junit-reporter": "^1.18.0",
     "mocha-multi-reporters": "^1.1.7",
-    "nyc": "^13.3.0",
-    "supertest": "^3.4.2"
+    "nyc": "^13.3.0",wrwrwdeqwdwwededwd
+    "supertest": "^3.4.2"weew
   }
 }
+wdewe
